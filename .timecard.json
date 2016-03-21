@@ -3,7 +3,7 @@
   "hourlyRate": 80,
   "name": "Matt's Bakery",
   "tagline": "A website redesign",
-  "bgcolor": "#6AC15F",
+  "primaryColor": "#6AC15F",
   "card": [
     {
       "date": "Sun Jan 17 2016",
